@@ -21,6 +21,6 @@ This app is developed in **ANDROID STUDIO**.It includes
 Use of widgets and other topics such as EditText,TextView, CountDownTime, AlertDialog,
 Explicit Indent,Menu, Generating Random Numbers,LinearLayout [both Vertical and horizontal].
 
-__
+___
 Link To download :
 
